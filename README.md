@@ -141,7 +141,6 @@ I'm available for:
 - ✅ Team training and quality culture building
 
 [![Email](https://img.shields.io/badge/✉️_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sheva8.ma@gmail.com)
-Wechat: sheva_ma
 
 ---
 
