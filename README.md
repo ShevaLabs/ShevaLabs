@@ -146,6 +146,7 @@ I'm available for:
 
 ## 📊 **GitHub Activity**  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShevaLabs&theme=dark)](https://git.io/streak-stats)  
+![Traffic](https://komarev.com/ghpvc/?username=ShevaLabs)
 
 ---
 
