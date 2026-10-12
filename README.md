@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Sheva Ma
 
+🌐 **[www.shevalabs.top](https://www.shevalabs.top)** — my official website: services, projects & how to work with me
+
 ### **Senior QA Engineer & Mobile Full-Stack Developer** | **17+ Years Testing + Development** | **Web, SaaS & Mobile Specialist**
 
-[![Website](https://img.shields.io/badge/🌐_Website-shevalabs.top-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://shevalabs.top)
+[![Website](https://img.shields.io/badge/🌐_www.shevalabs.top-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://www.shevalabs.top)
 [![GitHub](https://img.shields.io/badge/GitHub-ShevaLabs-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShevaLabs)
 [![Email](https://img.shields.io/badge/✉️_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sheva8.ma@gmail.com)
 
@@ -163,7 +165,7 @@ I'm available for:
 - ✅ Hybrid roles where both skill sets add value
 - ✅ Team training and quality culture building
 
-[![Website](https://img.shields.io/badge/🌐_Website-shevalabs.top-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://shevalabs.top)
+[![Website](https://img.shields.io/badge/🌐_www.shevalabs.top-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://www.shevalabs.top)
 [![Email](https://img.shields.io/badge/✉️_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sheva8.ma@gmail.com)
 
 ---
@@ -176,4 +178,4 @@ I'm available for:
 
 *Results-oriented quality engineering with 17+ years of proven impact. I adapt my focus to your immediate need — whether that's auditing your SaaS test coverage, validating your web platform, or building your next mobile app.*
 
-> 🌐 More about me, my services and my projects: **[shevalabs.top](https://shevalabs.top)**
+> 🌐 More about me, my services and my projects: **[www.shevalabs.top](https://www.shevalabs.top)**
