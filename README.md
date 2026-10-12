@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Sheva Ma
+# 👋 Hi, I'm Chao Ma (Sheva Ma)
+
+*Chao Ma is my name — Sheva Ma is what I go by in English. Same person on Upwork.*
 
 🌐 **[www.shevalabs.top](https://www.shevalabs.top)** — my official website: services, projects & how to work with me
 
